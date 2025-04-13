@@ -1,1 +1,1 @@
-This repository contains all 15 crypto alogrithms that was taught in class
+This repository contains crypto algorithms implemented using rust
